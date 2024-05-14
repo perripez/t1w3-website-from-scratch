@@ -1,0 +1,33 @@
+:root {
+    --richblack: #0D1821;
+    --indigo: #344966;
+    --pink: #E6AACE;
+    --white: #F0F4EF;
+    --sage: #BFCC94;
+}
+
+body {
+    margin: 0;
+}
+
+header{
+    background-color: var(--indigo);
+    text-align: center;
+    padding: 1rem;
+}
+
+.logo-name a img {
+    height: 100px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.pez-text {
+ color: var(--pink)
+}
+
+.design-text {
+    color: var(--white)
+}
