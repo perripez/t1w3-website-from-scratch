@@ -1,0 +1,18 @@
+.services-img {
+    width: 200px;
+}
+
+article {
+    background-color: var(--pink);
+    border-radius: 16px;
+    overflow: hidden;
+    text-align: center;
+    margin: 20px 0;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+}

@@ -10,3 +10,11 @@ The header component has and name of the company along with the navigation bar. 
 
 ### Footer
 The footer component has social media links and other information of the company such as contact number and email address
+
+## Pages
+
+### Home Page
+The home page displays an image and some random text for now
+
+### Services Page
+The services page shows services provided by the company with an image and the title of the service
