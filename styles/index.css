@@ -14,7 +14,9 @@ body {
     min-height: 100dvh;
     justify-content: space-between;
 }
-
+a {
+    color: var(--pink);
+}
 header{
     background-color: var(--indigo);
     text-align: center;
@@ -48,6 +50,15 @@ header{
     text-decoration: none;
     color:var(--white);
 }
+
+#nav-items a:hover {
+    color: var(--pink);
+}
+
+a.current {
+    color: var(--pink) !important;
+}
+
 /* Desktop header styling */
 @media screen and (min-width:600px) {
 
