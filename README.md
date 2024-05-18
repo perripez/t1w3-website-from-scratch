@@ -21,3 +21,6 @@ The services page shows services provided by the company with an image and the t
 
 ### About Page
 The about page utilises CSS Grid to show some information about the company
+
+### Contact Page
+The contact page has a form to fill up to contact the company but it does not work for now.
